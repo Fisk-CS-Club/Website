@@ -20,6 +20,7 @@ We're excited to have you join us building this project! Follow these steps to g
 1. **Clone The Repository:** First clone the repository.
 **Vs Code**
 > Click on **Clone git repository** in the new window tab of vs code and copy the https url "https://github.com/Fisk-CS-Club/Website.git" into it.<br>
+
 **Others**
 > git clone https://github.com/Fisk-CS-Club/Website <br>
 > cd Website
