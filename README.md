@@ -25,13 +25,13 @@ We're excited to have you join us building this project! Follow these steps to g
 > cd Website
 
 2. **Create a Branch:** We recommend using your name as the name of your branch
-> git checkout -b <your branch>
+> git checkout -b "your branch"
 
 3. **Make Changes:** Work on your feature or fix a bug.
 4. **Commit Your Changes:**
-> git commit -m <Commit message>
+> git commit -m "Commit message"
 5. **Push Your Branch:**
-> git push origin <your branch>
+> git push origin "your branch"
 6. **Open a Pull Request:** Go to the repository and create a **Pull Request** from your branch.
 
 ___
