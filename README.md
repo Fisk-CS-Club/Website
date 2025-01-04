@@ -18,10 +18,10 @@ ___
 ## How to Contribute
 We're excited to have you join us building this project! Follow these steps to get started:
 1. **Clone The Repository:** First clone the repository.
-> **Vs Code**
-> Click on **Clone git repository** in the new window tab of vs code and copy the https url "https://github.com/Fisk-CS-Club/Website.git" into it.
-> **Others**
-> git clone git clone https://github.com/Fisk-CS-Club/Website
+> **Vs Code** <br>
+> Click on **Clone git repository** in the new window tab of vs code and copy the https url "https://github.com/Fisk-CS-Club/Website.git" into it.<br>
+> **Others** <br>
+> git clone git clone https://github.com/Fisk-CS-Club/Website <br>
 > cd Website
 
 2. **Create a Branch:** We recommend using your name as the name of your branch
